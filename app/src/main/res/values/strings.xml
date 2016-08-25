@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PrimeQuiz</string>
+    <string name="yesbutton">Yes</string>
+    <string name="nobutton">No</string>
+    <string name="nextbutton">Next</string>
+    <string name="incorrecttoast">incorrect!</string>
+    <string name="correcttoast">correct!</string>
+    <string name="ques">Is %1$d a prime number or not?</string>
+    <string name="hint">Try to factorize it!!</string>
+    <string name="hinttaken">Hint has been taken!!</string>
+    <string name="cheat">cheat</string>
+    <string name="scheat"> Show Cheat</string>
+    <string name="back">Back</string>
+    <string name="shint">Show Hint</string>
+    <string name="show_hint">show hint</string>
+    <string name="isnotprime">number is not a prime!!</string>
+    <string name="isprime">number is prime!!</string>
+</resources>
